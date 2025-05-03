@@ -28,7 +28,7 @@ The system uses real-time webcam input and outputs both predictions and servo co
 
 ## Sample Predictions
 
-![Sample Predictions](![val_batch1_labels](https://github.com/user-attachments/assets/aeda9213-587d-40f7-bf09-20646be81309)
+(![val_batch1_labels](https://github.com/user-attachments/assets/aeda9213-587d-40f7-bf09-20646be81309)
 )
 
 ---
