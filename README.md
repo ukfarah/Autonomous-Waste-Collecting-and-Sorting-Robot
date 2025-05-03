@@ -28,24 +28,23 @@ The system uses real-time webcam input and outputs both predictions and servo co
 
 ## Sample Predictions
 
-(![val_batch1_labels](https://github.com/user-attachments/assets/aeda9213-587d-40f7-bf09-20646be81309)
-)
+![val_batch1_labels](https://github.com/user-attachments/assets/aeda9213-587d-40f7-bf09-20646be81309)
+
 
 ---
 
 ## Training and Validation Metrics
 
-![Training Results](![results](https://github.com/user-attachments/assets/35b17101-bb3e-495a-b7bb-8d196c9a8793)
-)
+![results](https://github.com/user-attachments/assets/35b17101-bb3e-495a-b7bb-8d196c9a8793)
+
 
 ---
 
 ## Confusion Matrix
 
 Shows classification accuracy per class.
+![confusion_matrix_normalized](https://github.com/user-attachments/assets/c758ad85-6912-4e43-8e4d-ee81e2a10baa)
 
-![Confusion Matrix](![confusion_matrix_normalized](https://github.com/user-attachments/assets/c758ad85-6912-4e43-8e4d-ee81e2a10baa)
-)
 
 ---
 
@@ -53,8 +52,8 @@ Shows classification accuracy per class.
 
 Shows how confident the model is across different materials.
 
-![F1 Curve](![F1_curve](https://github.com/user-attachments/assets/ef843acf-1d41-4ea7-9b13-7f8d9c8774c1)
-)
+![F1_curve](https://github.com/user-attachments/assets/ef843acf-1d41-4ea7-9b13-7f8d9c8774c1)
+
 
 ---
 
@@ -62,8 +61,8 @@ Shows how confident the model is across different materials.
 
 Shows precision and recall trade-off per class.
 
-![PR Curve](![PR_curve](https://github.com/user-attachments/assets/d18d384c-b480-4d5a-bad2-380fe6944275)
-)
+![PR_curve](https://github.com/user-attachments/assets/d18d384c-b480-4d5a-bad2-380fe6944275)
+
 
 ---
 
@@ -71,8 +70,8 @@ Shows precision and recall trade-off per class.
 
 Helps calibrate thresholds.
 
-![Precision-Confidence Curve](![P_curve](https://github.com/user-attachments/assets/c9d50bbf-55ee-4f10-acb5-3cc50591f298)
-)
+![P_curve](https://github.com/user-attachments/assets/c9d50bbf-55ee-4f10-acb5-3cc50591f298)
+
 
 ---
 
@@ -80,8 +79,8 @@ Helps calibrate thresholds.
 
 Tracks detection coverage.
 
-![Recall-Confidence Curve](![R_curve](https://github.com/user-attachments/assets/b40a9180-3f01-4beb-9665-3e98a8678f99)
-)
+![R_curve](https://github.com/user-attachments/assets/b40a9180-3f01-4beb-9665-3e98a8678f99)
+
 
 ---
 
